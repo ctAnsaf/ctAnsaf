@@ -7,4 +7,4 @@ Full Stack Developer with 3+ years of experience building robust, scalable web a
 **Frontend:** Angular, Next.js, HTML, CSS, SCSS, Bootstrap, Tailwind, jQuery, Ajax, Wireframing  
 **Backend:** PHP (Laravel, Slim, CodeIgniter), Python Django, WordPress Plugin Customization, Strapi, GraphQL, Pusher  
 **Database & Cloud:** SQL, Firebase  
-**DevOps & Tools:** Server Management, Git, Docker, CI/CD, Postman, REST API, VS Code, Jira, Figma
+**DevOps & Tools:** Server Management, Git, CI/CD, Postman, REST API,
