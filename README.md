@@ -55,7 +55,7 @@ I have 4+ years of experience across frontend and backend development, based in 
 
 Feel free to reach out about work or collaborations:
 
-- 🌐 **Portfolio:** [ansafct.in](https://ansafct.in/)
-- 💼 **LinkedIn:** [linkedin.com/in/ansaf-ct](https://www.linkedin.com/in/ansaf-ct)
-- ✉️ **Email:** [ctansaf@gmail.com](mailto:ctansaf@gmail.com)
-- 📍 **Location:** Malappuram, Kerala, India
+ **Portfolio:** [ansafct.in](https://ansafct.in/)
+ **LinkedIn:** [linkedin.com/in/ansaf-ct](https://www.linkedin.com/in/ansaf-ct)
+ **Email:** [ctansaf@gmail.com](mailto:ctansaf@gmail.com)
+ **Location:** Malappuram, Kerala, India
