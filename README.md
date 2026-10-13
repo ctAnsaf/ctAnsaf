@@ -1,4 +1,4 @@
-![Ansaf C T Header](image.png)
+![Ansaf C T Header](cover-banner.png)
 
 **Portfolio Website:** [ansafct.in](https://ansafct.in/)
 
