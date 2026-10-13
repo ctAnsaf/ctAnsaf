@@ -26,18 +26,9 @@ I am a Full Stack Developer with over 4 years of experience building web applica
 
 ---
 
-### GitHub Analytics
-
-[![Ansaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctAnsaf&show_icons=false&theme=radical)](https://github.com/ctAnsaf)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctAnsaf&layout=compact&theme=radical)](https://github.com/ctAnsaf)
-
----
-
 ### Contact
 
 * **Portfolio:** [ansafct.in](https://ansafct.in/)
 * **Location:** Malappuram, Kerala
 * **Email:** ctansaf@gmail.com
 * **LinkedIn:** [linkedin.com/in/ansaf-ct](https://www.linkedin.com/in/ansaf-ct)
-
-![Visitor Count](https://profile-counter.glitch.me/ctAnsaf/count.svg)
