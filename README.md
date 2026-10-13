@@ -21,6 +21,6 @@ I am a Full Stack Developer with over 4 years of experience building web applica
 ### Contact
 
 * **Portfolio:** [ansafct.in](https://ansafct.in/)
-* **Location:** Malappuram, Kerala[cite: 1]
-* **Email:** ctansaf@gmail.com[cite: 1]
-* **LinkedIn:** [linkedin.com/in/ansaf-ct](https://www.linkedin.com/in/ansaf-ct)[cite: 1]
+* **Location:** Malappuram, Kerala
+* **Email:** ctansaf@gmail.com
+* **LinkedIn:** [linkedin.com/in/ansaf-ct](https://www.linkedin.com/in/ansaf-ct)
