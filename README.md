@@ -6,7 +6,7 @@
 
 I have 4+ years of experience across frontend and backend development, based in Malappuram, Kerala. I enjoy turning ideas into clean, maintainable products, from the UI and API to server management and deployment.
 
-> ### 🚀 See my latest projects and full work at [ansafct.in](https://ansafct.in/)
+> ### See my latest projects and full work at [ansafct.in](https://ansafct.in/)
 
 <p>
   <a href="https://www.linkedin.com/in/ansaf-ct"><img src="https://img.shields.io/badge/LinkedIn-ansaf--ct-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
