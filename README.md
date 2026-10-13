@@ -45,9 +45,9 @@ I have 4+ years of experience across frontend and backend development, based in 
 
 ### Currently Learning
 
-- Backend authentication in depth: how API tokens work, and when to choose Laravel Passport or Laravel Sanctum
-- Angular 22 examples: data tables, search components and REST API integration
-- CSS print layouts and typography for generating PDF documents
+- **Module Federation & Micro-frontends:** Scaling large web applications and decoupling frontend architectures
+- **Artificial Intelligence:** Integrating AI capabilities, LLM APIs, and intelligent features into modern web products
+- **Advanced Server Architecture:** High availability, load balancing, and scalable cloud deployment strategies
 
 <img src="divider.svg" alt="" width="100%">
 
