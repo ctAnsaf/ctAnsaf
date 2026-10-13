@@ -1,4 +1,4 @@
-<img src="header.svg" alt="Ansaf CT – Full Stack Developer" width="100%">
+<img src="ansaf-ct-cover.jpg" alt="Ansaf CT – Full Stack Developer" width="100%">
 
 # Hi, I'm Ansaf
 
