@@ -2,7 +2,7 @@
 
 **Portfolio Website:** [ansafct.in](https://ansafct.in/)
 
-I am a Full Stack Developer with over 3 years of experience building web applications[cite: 1]. My background covers both frontend and backend development, working primarily with Angular, Next.js, PHP (Laravel, Slim, CodeIgniter), and Python Django[cite: 1]. I focus on building functional, scalable applications[cite: 1].
+I am a Full Stack Developer with over 4 years of experience building web applications[cite: 1]. My background covers both frontend and backend development, working primarily with Angular, Next.js, PHP (Laravel, Slim, CodeIgniter), and Python Django[cite: 1]. I focus on building functional, scalable applications[cite: 1].
 
 ---
 
