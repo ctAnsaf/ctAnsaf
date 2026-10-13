@@ -1,4 +1,4 @@
-<img src="ansaf-ct-cover.jpg" alt="Ansaf CT – Full Stack Developer" width="100%">
+<img src="assets/header.svg" alt="Ansaf CT – Full Stack Developer" width="100%">
 
 # Hi, I'm Ansaf
 
@@ -12,7 +12,7 @@ I have 4+ years of experience across frontend and backend development, based in 
   <a href="mailto:ctansaf@gmail.com"><img src="https://img.shields.io/badge/Email-ctansaf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 ### Tech Stack
 
@@ -31,7 +31,7 @@ I have 4+ years of experience across frontend and backend development, based in 
 | **DevOps & Tools** | **Server Management**, Deployment, CI/CD (GitHub), WordPress Deployment & Migration |
 | **Additional** | Vimeo Integration |
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 ### What I Can Help With
 
@@ -40,7 +40,7 @@ I have 4+ years of experience across frontend and backend development, based in 
 * Designing REST and GraphQL APIs, including authentication and real-time features
 * Customizing, deploying and migrating WordPress sites and plugins
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 ### Currently Learning
 
@@ -48,7 +48,7 @@ I have 4+ years of experience across frontend and backend development, based in 
 * Angular 22 examples: data tables, search components and REST API integration
 * CSS print layouts and typography for generating PDF documents
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 ### Let's Connect
 
